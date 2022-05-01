@@ -1,0 +1,2 @@
+# pub_rails_twitter
+railsでTwitterぽいのを作る
